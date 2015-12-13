@@ -1,4 +1,4 @@
-# cryptopals-challenges
+# cryptopals-challenges   [![Build Status](https://snap-ci.com/nicolastrres/cryptopals-challenges/branch/master/build_image)](https://snap-ci.com/nicolastrres/cryptopals-challenges/branch/master)
 This repository contains a couple of the [cryptopals challenges](http://cryptopals.com/).
 
 
@@ -12,6 +12,7 @@ flake8 . #  This is going to run flake8 against all the files in the folder
 
 [TODO] How to run tests
 ```
+
 
 
 
