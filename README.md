@@ -10,7 +10,7 @@ pip install -r requirements
  
 flake8 . #  This is going to run flake8 against all the files in the folder
 
-[TODO] How to run tests
+py.test tests/test.py  #  This is going to run the tests
 ```
 
 
